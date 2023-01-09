@@ -1,0 +1,17 @@
+{
+    "organization": "HiiT",
+    "website": "https://www.hiitplc.com/",
+    "formed": 1996,
+    "courses": [
+        {
+            "name": "Python Programming Language",
+            "courses": [
+                "JSON",
+                "Modules"
+            ],
+            "students": [
+                "David"
+            ]
+        }
+    ]
+}
