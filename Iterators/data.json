@@ -1,0 +1,20 @@
+{
+    "school": "HiiT",
+    "subject": "Python",
+    "students": [
+        {
+            "name": "John",
+            "marks": {
+                "modules": 90,
+                "functions": 80
+            }
+        },
+        {
+            "name": "Jane",
+            "marks": {
+                "modules": 85,
+                "functions": 95
+            }
+        }
+    ]
+}
